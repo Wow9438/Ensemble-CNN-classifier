@@ -1,0 +1,2 @@
+Run both the convnext_tiny.ipynb file and the resnet.ipynb file, to get the weights of the models after a few epochs.
+Then, run the ensembler.ipynb file to get the submission file corresponding to the averaged version of these both models.
